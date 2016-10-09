@@ -1,0 +1,25 @@
+/* Таблицы настроек */
+#in-wc-sync-csv fieldset table
+{
+	width: 100%;
+}
+
+#in-wc-sync-csv fieldset table td:first-child
+{
+	width: 15%;
+}
+
+#in-wc-sync-csv fieldset td input[type="text"]
+{
+	width: 100%;
+}
+
+#in-wc-sync-csv fieldset pre
+{
+	width: auto;
+	height: 25em;
+	border: 1px solid #eee;
+	padding: 1ex;
+	overflow-y: scroll;
+	overflow-x: hidden;	
+}
